@@ -20,5 +20,9 @@ call unite#custom_action('common', 'unite_candidate_sorter', s:action)
 unlet s:action
 
 
+function! unite#kinds#candidate_sorter#mapping()
+	return unite#do_action('unite_candidate_sorter')
+endfunction
+
 let &cpo = s:save_cpo
 unlet s:save_cpo
