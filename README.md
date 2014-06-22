@@ -4,7 +4,7 @@ Sorting unite candidates.
 
 ## Screencapture
 
-![sort](https://cloud.githubusercontent.com/assets/214488/3350459/e2060aea-f9b1-11e3-9064-86cbc56a80bd.gif)
+![sort](https://cloud.githubusercontent.com/assets/214488/3351504/eb26a4fc-fa0d-11e3-8c61-ace599716bef.gif)
 
 ## Setting
 
