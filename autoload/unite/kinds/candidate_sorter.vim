@@ -9,6 +9,7 @@ endfunction
 
 let s:action = {
 \	'description' : 'start unite-candidate_sorter',
+\	"is_quit" : 0,
 \ }
 function! s:action.func(candidates)
 	let name = "unite_candidate_sorter"
